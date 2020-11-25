@@ -28,4 +28,5 @@ My name is **Krypton** and I'm a random **user**, **developer** and **gamer** pl
 ## 📈 GitHub Statistics
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kkrypt0nn&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 ![](https://github-readme-stats.vercel.app/api?username=kkrypt0nn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+
 ![](https://komarev.com/ghpvc/?username=kkrypt0nn&color=d92929)
