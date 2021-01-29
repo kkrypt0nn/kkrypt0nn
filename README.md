@@ -26,6 +26,6 @@ My name is **Krypton** and I'm a random **user**, **developer** and **gamer** pl
 [Discord](https://discord.gg/HzJ3Gfr) • [YouTube](https://youtube.com/channel/UCly6QIOO1A0sasZUG7nq49A) • [Twitch](https://twitch.tv/kkrypt0nn) • [Twitter](https://twitter.com/kkrypt0nn)
 
 ## 📈 GitHub Statistics
-![Metrics](https://metrics.lecoq.io/kkrypt0nn?template=classic&followup=1&languages=1&config.timezone=Europe%2FZurich&config.animated=true)
+![Metrics](https://metrics.lecoq.io/kkrypt0nn?template=terminal&followup=1&languages=1&config.timezone=Europe%2FZurich&config.animated=true)
 
 ![](https://komarev.com/ghpvc/?username=kkrypt0nn&color=d92929)
