@@ -31,6 +31,7 @@ My name is **Krypton** and I'm a random **user**, **developer** and **gamer** pl
 - Bitcoin: 31mGvXAhWJbhSwdgx9F2mVPguPRFCYYFwL
 - Ethereum: 0x20257228C9e94A13E4BB9578635c84403cAb6E60
 - Patreon: Click [here](https://patreon.com/kkrypt0nn)
+- Ko-fi: Click [here](https://ko-fi.com/kkrypt0nn)
 - Dogecoin: D9hhH53pSe2KXPBvVQLe5G5FTvrmWnjtW4
 - Dash: XiJKVXoeR6nMCnhYQSM3DEHtMdubUjtLeC
 - PayPal: Click [here](https://paypal.com/donate?token=chTbYaP0cUkzPqJrWoQPCiI5MUfh7tUfHT71T7OgSrXqwQsdo7QJuvt6czWphi5frpSrP-rD-mQebtUZ)
