@@ -2,27 +2,27 @@
 My name is **Krypton** and I'm a random **user**, **developer** and **gamer** playing around on Internet. I love coding random ~~useless~~ stuff for people and making it open source.
 
 ## 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=d92929)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=d92929)
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=d92929)
+![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=d92929)
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=d92929)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=for-the-badge&logo=apple&logoColor=white&color=d92929)
 
-![](https://img.shields.io/badge/Editor-Unreal_Engine-informational?style=flat&logo=unreal-engine&logoColor=white&color=d92929)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=d92929)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=d92929)
-![](https://img.shields.io/badge/Editor-PhpStorm-informational?style=flat&logo=phpstorm&logoColor=white&color=d92929)
-![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=d92929)
+![](https://img.shields.io/badge/Editor-Unreal_Engine-informational?style=for-the-badge&logo=unreal-engine&logoColor=white&color=d92929)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=d92929)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=for-the-badge&logo=pycharm&logoColor=white&color=d92929)
+![](https://img.shields.io/badge/Editor-PhpStorm-informational?style=for-the-badge&logo=phpstorm&logoColor=white&color=d92929)
+![](https://img.shields.io/badge/Editor-Atom-informational?style=for-the-badge&logo=atom&logoColor=white&color=d92929)
 
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=d92929)
-![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=d92929)
-![](https://img.shields.io/badge/Language-C_Sharp-informational?style=flat&logo=c-sharp&logoColor=white&color=d92929)
-![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=d92929)
+![](https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=d92929)
+![](https://img.shields.io/badge/Language-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=d92929)
+![](https://img.shields.io/badge/Language-C_Sharp-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=d92929)
+![](https://img.shields.io/badge/Language-PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=d92929)
 
-![](https://img.shields.io/badge/Technologies-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=d92929)
-![](https://img.shields.io/badge/Technologies-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=d92929)
+![](https://img.shields.io/badge/Technologies-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=d92929)
+![](https://img.shields.io/badge/Technologies-Laravel-informational?style=for-the-badge&logo=laravel&logoColor=white&color=d92929)
 
-![](https://img.shields.io/badge/Tools-Discord-informational?style=flat&logo=discord&logoColor=white&color=d92929)
-![](https://img.shields.io/badge/Tools-GitHub_Desktop-informational?style=flat&logo=github&logoColor=white&color=d92929)
-![](https://img.shields.io/badge/Tools-Sandboxie-informational?style=flat&logo=codesandbox&logoColor=white&color=d92929)
+![](https://img.shields.io/badge/Tools-Discord-informational?style=for-the-badge&logo=discord&logoColor=white&color=d92929)
+![](https://img.shields.io/badge/Tools-GitHub_Desktop-informational?style=for-the-badge&logo=github&logoColor=white&color=d92929)
+![](https://img.shields.io/badge/Tools-Sandboxie-informational?style=for-the-badge&logo=codesandbox&logoColor=white&color=d92929)
 
 ## 🧑‍🤝‍🧑 Social Medias
 [Discord](https://discord.gg/HzJ3Gfr) • [YouTube](https://youtube.com/channel/UCly6QIOO1A0sasZUG7nq49A) • [Twitch](https://twitch.tv/kkrypt0nn) • [Twitter](https://twitter.com/kkrypt0nn)
