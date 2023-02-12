@@ -55,8 +55,12 @@
   <!--START_SECTION:waka-->
 
 ```text
-TypeScript   0 secs          █████████████████████░░░░   83.77 %
-JavaScript   0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.23 %
+Go               42 mins         ████████████████████████░   96.62 %
+go.mod           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+TypeScript       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
