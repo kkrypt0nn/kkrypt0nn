@@ -24,11 +24,11 @@
 
 ### 📩 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is ARP Spoofing?](https://krypton.ninja/What-is-ARP-Spoofing)
 - [Bitwise flags are amazing, and you should use them](https://krypton.ninja/Bitwise-flags-are-amazing-and-you-should-use-them)
 - [Generating unique IDs with the Snowflake algorithm](https://krypton.ninja/Generating-unique-IDs-with-the-Snowflake-algorithm)
 - [Reversing a Go stripped binary](https://krypton.ninja/Reversing-a-Go-stripped-binary)
 - [Space Heroes 2022 CTF write-up](https://krypton.ninja/Space-Heroes-2022-CTF-write-up)
-- [Insomni&#39;hack 2022 CTF write-up](https://krypton.ninja/Insomnihack-2022-CTF-write-up)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
