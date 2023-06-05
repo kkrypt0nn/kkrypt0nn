@@ -55,8 +55,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Go         1 hr 55 mins    ███████████████████▒░░░░░   77.36 %
-Markdown   33 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
+Markdown   30 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
