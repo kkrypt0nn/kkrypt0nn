@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Krypton!</h1>
 
-> **Note**: In the army from the 3rd of July 2023 until at least the 25th of April 2024 - **won't be available until then.**
+> **Note**: In the army from the 3rd of July 2023 until at least the 27th of April 2024 - **won't be available until then.**
 
 <div align="center">
   <a href="https://status.krypton.ninja/spotify?open">
