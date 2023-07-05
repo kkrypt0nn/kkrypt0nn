@@ -57,11 +57,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       53 mins         ██████████▒░░░░░░░░░░░░░░   40.95 %
-Go               41 mins         ████████░░░░░░░░░░░░░░░░░   31.68 %
-YAML             17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
-TOML             4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-JSON             4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
