@@ -37,7 +37,8 @@
 
 <details>
   <summary>💰 Donate Me</summary>
-  
+
+  - GitHub Sponsors: Click [here](https://github.com/sponsors/kkrypt0nn)
   - Ko-fi: Click [here](https://go.krypton.ninja/kofi)
   - Buy Me a Coffee: Click [here](https://go.krypton.ninja/buymeacoffee)
   - Bitcoin: 31mGvXAhWJbhSwdgx9F2mVPguPRFCYYFwL
