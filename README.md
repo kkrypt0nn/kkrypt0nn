@@ -58,11 +58,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-YAML       13 mins         █████████████████▒░░░░░░░   69.85 %
-Rust       2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
-Markdown   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
-TOML       1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-Text       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
