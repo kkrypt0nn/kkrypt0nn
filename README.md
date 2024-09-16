@@ -58,11 +58,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Rust       22 mins         █████████████████▓░░░░░░░   70.53 %
-MDX        3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
-Text       2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-TOML       2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
