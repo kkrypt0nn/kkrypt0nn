@@ -68,14 +68,3 @@ Markdown     5 mins          ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
   
 </details>
-
-<br>
-
-<details>
-  <summary>📈 GitHub Statistics</summary>
-  
-  ![GitHub Statistics](https://metrics.lecoq.io/kkrypt0nn?template=classic&followup=1&languages=1&config.timezone=Europe%2FZurich)
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=kkrypt0nn&color=9c84ef)
-  
-</details>
