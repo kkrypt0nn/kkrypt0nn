@@ -43,7 +43,6 @@
   - Ethereum: 0x20257228C9e94A13E4BB9578635c84403cAb6E60
   - Dogecoin: D9hhH53pSe2KXPBvVQLe5G5FTvrmWnjtW4
   - Dash: XiJKVXoeR6nMCnhYQSM3DEHtMdubUjtLeC
-  - PayPal: Click [here](https://go.krypton.ninja/paypal)
   
   If you donate with crypto currency, make sure you send the coins to the address corresponding to the currency. Sending to any other address will cause a loss of the coins and it will be impossible to recover, I am not responsible for an issue like that.
 </details>
