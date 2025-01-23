@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<p align="center">Hey there, I’m Krypton! (Coming from the <a href="https://en.wikipedia.org/wiki/Krypton">Krypton element</a> 36 ⚛️) I’m a junior developer and cyber security enthusiast. I like computers <i>(surprised?)</i> and anything related to cyber security, especially reverse engineering and networking.<br><br><strong>I 💜 open source</strong></p>
+<p align="center">Hey there, I’m Krypton! (Coming from the <a href="https://en.wikipedia.org/wiki/Krypton">Krypton element</a> 36 ⚛️) I’m a junior developer and cyber security enthusiast. I like computers <i>(surprised?)</i> and anything related to cyber security, especially information gathering and reverse engineering.<br><br><strong>I 💜 open source</strong></p>
 
 <hr>
 
