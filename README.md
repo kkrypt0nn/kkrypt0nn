@@ -24,6 +24,7 @@
 
 ### 📩 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is ARP Spoofing?](https://krypton.ninja/what-is-arp-spoofing/)
 - [Bitwise flags are amazing, and you should use them](https://krypton.ninja/bitwise-flags-are-amazing-and-you-should-use-them/)
 - [Generating unique IDs with the Snowflake algorithm](https://krypton.ninja/generating-unique-ids-with-the-snowflake-algorithm/)
 - [Space Heroes 2022 CTF write-up](https://krypton.ninja/space-heroes-2022-ctf-write-up/)
