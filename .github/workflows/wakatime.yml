@@ -10,6 +10,9 @@ jobs:
     name: Update this repo's README with time spent on
     runs-on: ubuntu-latest
     steps:
+      - run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
