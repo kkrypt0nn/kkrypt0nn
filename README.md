@@ -17,7 +17,7 @@
 - 🛠️ I'm currently working on **too many side projects**.
 - 🌱 I'm currently learning **Rust** & **Reverse Engineering**.
 - 💭 Ask me things about anything and I will try to answer.
-- 📇 Contact me: [@krypton.ninja](https://go.krypton.ninja/discord) on Discord, [@kkrypt0nn](https://go.krypton.ninja/twitter) on Twitter, per [Email](https://go.krypton.ninja/mail) or [kkrypt0nn](https://go.krypton.ninja/keybase) on Keybase.
+- 📇 Contact me: [@krypton.ninja](https://go.krypton.ninja/discord) on Discord, [@kkrypt0nn](https://go.krypton.ninja/twitter) on X (fka Twitter), per [Email](https://go.krypton.ninja/mail) or [kkrypt0nn](https://go.krypton.ninja/keybase) on Keybase.
 - 🐺💜💚 Fun facts: My favorite animal is a wolf and some of my favorite colors are [#BEBEFE](https://color-hex.com/color/bebefe) or any type of purple and any type of green.
 
 <hr>
