@@ -7,7 +7,7 @@ Hey there, I’m Krypton! (Coming from the <a href="https://en.wikipedia.org/wik
 - **[`Project Absence`](https://github.com/project-absence/project-absence)** – A security tool for host analysis, including port scanning and subdomain discovery, written in Rust.
 - **Argane** - A new project I won't unveil at the moment as I'm not sure how the development will be and how much time I can give to it because it's a side project I work on when I need to take my mind off other things
 
-### Notable past projects
+### Notable other projects
 
 - **[`wordlists`](https://github.com/kkrypt0nn/wordlists)** - A collection of wordlists for many different usages
 - **[`Python-Discord-Bot-Template`](https://github.com/kkrypt0nn/Python-Discord-Bot-Template)** - A simple template to start to code your own and personalized Discord bot in Python
