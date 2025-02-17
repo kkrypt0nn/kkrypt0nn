@@ -21,9 +21,7 @@ Hey there, I’m Krypton! (Coming from the <a href="https://en.wikipedia.org/wik
 - **Web Security** – Strengthening my web security knowledge through HackTheBox.
 
 ### Connect with me
-- [Email](mailto:root@krypton.ninja)
-- [Discord](https://discord.gg/mTBrXyWxAF)
-- [X (fka Twitter)](https://x.com/kkrypt0nn)
+[Email](mailto:root@krypton.ninja) • [Discord](https://discord.gg/mTBrXyWxAF) • [X (fka Twitter)](https://x.com/kkrypt0nn)
 
 <hr>
 
