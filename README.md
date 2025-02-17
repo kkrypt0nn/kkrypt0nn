@@ -1,24 +1,29 @@
-<h1 align="center">👋 Hey, I'm Krypton!</h1>
+# 👋 Hey, I'm Krypton!
 
-<div align="center">
-  <a href="https://status.krypton.ninja/spotify?open">
-    <img src="https://status.krypton.ninja/spotify-image" width="256" height="64" alt="Spotify Now Playing">
-  </a>
-</div>
+Hey there, I’m Krypton! (Coming from the <a href="https://en.wikipedia.org/wiki/Krypton">Krypton element</a> 36 ⚛️) I’m a junior developer and cyber security enthusiast. I like computers <i>(surprised?)</i> and anything related to cyber security, especially information gathering and reverse engineering.<br><br><strong>I 💜 open source</strong>
 
-<p align="center">Hey there, I’m Krypton! (Coming from the <a href="https://en.wikipedia.org/wiki/Krypton">Krypton element</a> 36 ⚛️) I’m a junior developer and cyber security enthusiast. I like computers <i>(surprised?)</i> and anything related to cyber security, especially information gathering and reverse engineering.<br><br><strong>I 💜 open source</strong></p>
+### Current projects I'm working on
 
-<hr>
+- **[`Project Absence`](https://github.com/project-absence/project-absence)** – A security tool for host analysis, including port scanning and subdomain discovery, written in Rust.
+- **Argane** - A new project I won't unveil at the moment as I'm not sure how the development will be and how much time I can give to it because it's a side project I work on when I need to take my mind off other things
 
-<p align="center">
-  <a href="https://go.krypton.ninja/discord">Discord</a> • <a href="https://go.krypton.ninja/mail">Email</a> • <a href="https://go.krypton.ninja/keybase">Keybase</a> • <a href="https://krypton.ninja">Website</a>
-</p>
+### Notable past projects
 
-- 🛠️ I'm currently working on **too many side projects**.
-- 🌱 I'm currently learning **Rust** & **Reverse Engineering**.
-- 💭 Ask me things about anything and I will try to answer.
-- 📇 Contact me: [@krypton.ninja](https://go.krypton.ninja/discord) on Discord, [@kkrypt0nn](https://go.krypton.ninja/twitter) on X (fka Twitter), per [Email](https://go.krypton.ninja/mail) or [kkrypt0nn](https://go.krypton.ninja/keybase) on Keybase.
-- 🐺💜💚 Fun facts: My favorite animal is a wolf and some of my favorite colors are [#BEBEFE](https://color-hex.com/color/bebefe) or any type of purple and any type of green.
+- **[`wordlists`](https://github.com/kkrypt0nn/wordlists)** - A collection of wordlists for many different usages
+- **[`Python-Discord-Bot-Template`](https://github.com/kkrypt0nn/Python-Discord-Bot-Template)** - A simple template to start to code your own and personalized Discord bot in Python
+- **[`spaceflake`](https://github.com/kkrypt0nn/spaceflake)** / **[`spaceflake.rs`](https://github.com/kkrypt0nn/spaceflake.rs)** - A distributed generator to create unique IDs with ease in Go/Rust; inspired by Twitter's Snowflake
+- **[`rsmanuf`](https://github.com/kkrypt0nn/rsmanuf)** / **[`gomanuf`](https://github.com/kkrypt0nn/gomanuf)**/ **[`pymanuf`](https://github.com/kkrypt0nn/pymanuf)** - A very simple Rust/Go/Python library to get the manufacturer of a specific MAC address
+
+### Currently learning
+
+- **Rust** – Security tooling and some other GUI apps using [egui](https://github.com/emilk/egui).
+- **Reverse Engineering** – Digging into binaries.
+- **Web Security** – Strengthening my web security knowledge through HackTheBox.
+
+### Connect with me
+- [Email](mailto:root@krypton.ninja)
+- [Discord](https://discord.gg/mTBrXyWxAF)
+- [X (fka Twitter)](https://x.com/kkrypt0nn)
 
 <hr>
 
