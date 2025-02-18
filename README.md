@@ -18,7 +18,7 @@ Hey there, I’m Krypton! (Coming from the <a href="https://en.wikipedia.org/wik
 
 - **Rust** – Security tooling and some other GUI apps using [egui](https://github.com/emilk/egui).
 - **Reverse Engineering** – Digging into binaries.
-- **Web Security** – Strengthening my web security knowledge through HackTheBox.
+- **Pentesting / Red Teaming** – Strengthening my pentesting / red teaming knowledge through HackTheBox.
 
 ### Connect with me
 [Email](mailto:root@krypton.ninja) • [Discord](https://discord.gg/mTBrXyWxAF) • [X (fka Twitter)](https://x.com/kkrypt0nn)
