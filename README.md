@@ -58,11 +58,11 @@ Hey there, I’m Krypton! (Coming from the <a href="https://en.wikipedia.org/wik
   <!--START_SECTION:waka-->
 
 ```txt
-Rust       5 hrs 27 mins   ████████████████▓░░░░░░░░   66.29 %
-Markdown   43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
-YAML       41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-TOML       31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-Text       17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+Rust       6 hrs 36 mins   █████████████████▒░░░░░░░   69.16 %
+Markdown   43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+YAML       41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+TOML       31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+JSON       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
 ```
 
 <!--END_SECTION:waka-->
