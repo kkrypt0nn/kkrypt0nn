@@ -58,11 +58,11 @@ Hey there, I’m Krypton! (Coming from the <a href="https://en.wikipedia.org/wik
   <!--START_SECTION:waka-->
 
 ```txt
-Astro        1 hr 36 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.73 %
-Rust         1 hr 22 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.15 %
-JavaScript   51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
-CSS          50 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
-MDX          29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+Astro        2 hrs 3 mins    █████████▒░░░░░░░░░░░░░░░   36.78 %
+CSS          50 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
+JavaScript   48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
+Rust         32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
+MDX          28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
 ```
 
 <!--END_SECTION:waka-->
