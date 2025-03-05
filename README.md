@@ -1,6 +1,8 @@
 # 👋 Hey, I'm Krypton!
 
-Hey there, I’m Krypton! (Coming from the <a href="https://en.wikipedia.org/wiki/Krypton">Krypton element</a> 36 ⚛️) I’m a junior developer and cyber security enthusiast. I like computers <i>(surprised?)</i> and anything related to cyber security, especially information gathering and reverse engineering.<br><br><strong>I 💜 open source</strong>
+Hey there, I’m Krypton! (Coming from the [Krypton element](https://en.wikipedia.org/wiki/Krypton) 36 ⚛️) I’m a junior developer and cyber security enthusiast. I like computers *(surprised?)* and anything related to cyber security, especially information gathering and reverse engineering.
+
+**I 💜 open source**
 
 ### Current projects I'm working on
 
@@ -50,7 +52,7 @@ Hey there, I’m Krypton! (Coming from the <a href="https://en.wikipedia.org/wik
   If you donate with crypto currency, make sure you send the coins to the address corresponding to the currency. Sending to any other address will cause a loss of the coins and it will be impossible to recover, I am not responsible for an issue like that.
 </details>
 
-<br>
+<br />
 
 <details>
   <summary>⏳ Time Spent</summary>
