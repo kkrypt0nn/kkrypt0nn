@@ -60,11 +60,11 @@ Hey there, I’m Krypton! (Coming from the [Krypton element](https://en.wikipedi
   <!--START_SECTION:waka-->
 
 ```txt
-Java              3 hrs 53 mins   ██████████████▒░░░░░░░░░░   56.77 %
-TeX               38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-TOML              27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-Astro             21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-JSON              20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+Java              3 hrs 53 mins   █████████████▒░░░░░░░░░░░   53.71 %
+TeX               38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+TOML              27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Astro             21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Python            20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
 ```
 
 <!--END_SECTION:waka-->
