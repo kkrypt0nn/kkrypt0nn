@@ -23,7 +23,7 @@ Hey there, I’m Krypton! (Coming from the [Krypton element](https://en.wikipedi
 - **Pentesting / Red Teaming** – Strengthening my pentesting / red teaming knowledge through HackTheBox.
 
 ### Connect with me
-[Email](mailto:root@krypton.ninja) • [Discord](https://discord.gg/mTBrXyWxAF) • [X (fka Twitter)](https://x.com/kkrypt0nn)
+[Email](mailto:root@krypton.ninja) • [Keybase](https://keybase.io/kkrypt0nn) • [X (fka Twitter)](https://x.com/kkrypt0nn)
 
 <hr>
 
