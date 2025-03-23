@@ -60,11 +60,11 @@ Hey there, I’m Krypton! (Coming from the [Krypton element](https://en.wikipedi
   <!--START_SECTION:waka-->
 
 ```txt
-TeX             1 hr 46 mins    ███████▒░░░░░░░░░░░░░░░░░   28.82 %
-MDX             1 hr 15 mins    █████░░░░░░░░░░░░░░░░░░░░   20.42 %
-Markdown        50 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
-Text            50 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
-PHP             32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+TeX             1 hr 46 mins    ███████▓░░░░░░░░░░░░░░░░░   31.10 %
+MDX             1 hr 14 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.63 %
+Markdown        50 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
+Text            50 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
+Python          22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
 ```
 
 <!--END_SECTION:waka-->
