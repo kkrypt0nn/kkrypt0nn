@@ -29,6 +29,7 @@ Hey there, I’m Krypton! (Coming from the [Krypton element](https://en.wikipedi
 
 ### 📩 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Insomni&#39;hack 2025 CTF write-up](https://krypton.ninja/insomnihack-2025-ctf-write-up)
 - [What is ARP Spoofing?](https://krypton.ninja/what-is-arp-spoofing)
 - [Bitwise flags are amazing, and you should use them](https://krypton.ninja/bitwise-flags-are-amazing-and-you-should-use-them)
 - [Generating unique IDs with the Snowflake algorithm](https://krypton.ninja/generating-unique-ids-with-the-snowflake-algorithm)
