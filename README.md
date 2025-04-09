@@ -20,6 +20,7 @@ Hey there, I’m Krypton! (Coming from the [Krypton element](https://en.wikipedi
 ### Currently learning
 
 - **Rust** – Security tooling and some other GUI apps using [egui](https://github.com/emilk/egui).
+- **OSINT / Information Gathering** - Learning new techniques to gather information about specific things, I love data
 - **Reverse Engineering** – Digging into binaries.
 - **Pentesting / Red Teaming** – Strengthening my pentesting / red teaming knowledge through HackTheBox.
 
