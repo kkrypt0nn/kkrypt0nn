@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Krypton!
 
-Hey there, I’m Krypton! (Coming from the [Krypton element](https://en.wikipedia.org/wiki/Krypton) 36 ⚛️) I’m a junior developer and cyber security enthusiast. I like computers *(surprised?)* and anything related to cyber security, especially information gathering and reverse engineering.
+Hey there, I’m Krypton! (Coming from the [Krypton element](https://en.wikipedia.org/wiki/Krypton) 36 ⚛️) I’m a developer and cyber security enthusiast. I like computers *(surprised?)* and anything related to cyber security, especially information gathering and reverse engineering.
 
 **I 💜 open source**
 
