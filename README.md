@@ -31,11 +31,11 @@ Hey there, I’m Krypton! (Coming from the [Krypton element](https://en.wikipedi
 
 ### 📩 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cyber Apocalypse CTF 2025: Tales from Eldoria CTF write-up](https://krypton.ninja/cyber-apocalypse-2025-tales-from-eldoria-ctf-write-up)
-- [Insomni&#39;hack 2025 CTF write-up](https://krypton.ninja/insomnihack-2025-ctf-write-up)
 - [What is ARP Spoofing?](https://krypton.ninja/what-is-arp-spoofing)
 - [Bitwise flags are amazing, and you should use them](https://krypton.ninja/bitwise-flags-are-amazing-and-you-should-use-them)
 - [Generating unique IDs with the Snowflake algorithm](https://krypton.ninja/generating-unique-ids-with-the-snowflake-algorithm)
+- [How I protected my Minecraft cheating client](https://krypton.ninja/how-i-protected-my-minecraft-cheating-client)
+- [What is Go?](https://krypton.ninja/what-is-go)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
