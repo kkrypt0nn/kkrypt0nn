@@ -62,11 +62,11 @@ Hey there, I’m Krypton! (Coming from the [Krypton element](https://en.wikipedi
   <!--START_SECTION:waka-->
 
 ```txt
-Python         14 hrs 10 mins  ████████████▓░░░░░░░░░░░░   51.04 %
-Rust           4 hrs 24 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.85 %
-MDX            3 hrs 38 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
-Astro          55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-TypeScript     43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Python         14 hrs 10 mins  █████████████▓░░░░░░░░░░░   55.32 %
+Rust           3 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.18 %
+MDX            3 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
+Astro          55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+TOML           34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 ```
 
 <!--END_SECTION:waka-->
