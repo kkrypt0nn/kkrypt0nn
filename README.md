@@ -62,11 +62,11 @@ Hey there, I’m Krypton! (Coming from the [Krypton element](https://en.wikipedi
   <!--START_SECTION:waka-->
 
 ```txt
-Rust         3 hrs 9 mins    ██████████▒░░░░░░░░░░░░░░   40.95 %
-Terraform    1 hr 32 mins    █████░░░░░░░░░░░░░░░░░░░░   19.89 %
-Markdown     1 hr 5 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 %
-YAML         55 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
-SQL          27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+Rust         4 hrs 26 mins   ████████████▒░░░░░░░░░░░░   49.37 %
+Terraform    1 hr 32 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.04 %
+Markdown     1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
+YAML         55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+SQL          28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
 ```
 
 <!--END_SECTION:waka-->
