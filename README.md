@@ -22,6 +22,7 @@ Hey there, I’m Krypton! (Coming from the [Krypton element](https://en.wikipedi
 - **Rust** – Security tooling and some other random TUIs.
 - **OSINT / Information Gathering** - Learning new techniques to gather information about specific things, I love data.
 - **Forensics** - Forsencis.. but digital.
+- **Hardening** - After learning a lot of red teaming, I want more to make things more resistant to damages and/or attacks.
 - **Reverse Engineering** – Digging into binaries.
 
 ### Connect with me
