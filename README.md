@@ -23,7 +23,6 @@ Hey there, I’m Krypton! (Coming from the [Krypton element](https://en.wikipedi
 - **OSINT / Information Gathering** - Learning new techniques to gather information about specific things, I love data.
 - **Forensics** - Forsencis.. but digital.
 - **Reverse Engineering** – Digging into binaries.
-- **Pentesting / Red Teaming** – Strengthening my pentesting and red teaming knowledge through HackTheBox.
 
 ### Connect with me
 [Email](mailto:root@krypton.ninja) • [Discord](https://discord.gg/xj6y5ZaTMr) • [Keybase](https://keybase.io/kkrypt0nn) • [X (fka Twitter)](https://x.com/kkrypt0nn)
