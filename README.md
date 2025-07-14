@@ -6,7 +6,7 @@ Hey there, I’m Krypton! (Coming from the [Krypton element](https://en.wikipedi
 
 ### Current projects I'm working on
 
-- **[`Project Absence`](https://github.com/project-absence/project-absence)** – A security tool for domain reconnaissance with an OSINT-only approach, written in Rust.
+- **[`Project Absence`](https://github.com/kkrypt0nn/project-absence)** – A security tool for domain reconnaissance with an OSINT-only approach, written in Rust.
 - **[`OverScry`](https://github.com/kkrypt0nn/OverScry)** - A tool designed to simplify the process of generating Overpass queries from a YML structure file, written in Go.
 - **tinz** - A new project I won't unveil at the moment as I'm not sure how the development will be and how much time I can give to it because it's a side project I work on when I need to take my mind off other things.
 
