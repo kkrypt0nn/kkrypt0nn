@@ -62,11 +62,11 @@ Hey there, I’m Krypton! (Coming from the [Krypton element](https://en.wikipedi
   <!--START_SECTION:waka-->
 
 ```txt
-Markdown     2 hrs 5 mins    ██████████▒░░░░░░░░░░░░░░   41.20 %
-YAML         59 mins         █████░░░░░░░░░░░░░░░░░░░░   19.44 %
-Go           35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
-MDX          30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
-git ignore   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Markdown     3 hrs 41 mins   ████████████▓░░░░░░░░░░░░   50.08 %
+Go           1 hr 16 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.39 %
+YAML         59 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
+MDX          30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+git ignore   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:waka-->
