@@ -16,7 +16,7 @@ Hey there, I’m Krypton! (Coming from the [Krypton element](https://en.wikipedi
 - **[`wordlists`](https://github.com/kkrypt0nn/wordlists)** - Yet another collection of wordlists
 - **[`Python-Discord-Bot-Template`](https://github.com/kkrypt0nn/Python-Discord-Bot-Template)** - A simple template to start to code your own and personalized Discord bot in Python
 - **[`spaceflake`](https://github.com/kkrypt0nn/spaceflake)** / **[`spaceflake.rs`](https://github.com/kkrypt0nn/spaceflake.rs)** - A distributed generator to create unique IDs with ease in Go/Rust; inspired by Twitter's Snowflake
-- **[`Manuf Project`](https://github.com/kkrypt0nn/manuf)** - A very simple Rust/Go/Python library to get the manufacturer of a specific MAC address
+- **[`rsmanuf`](https://github.com/kkrypt0nn/rsmanuf)** / **[`gomanuf`](https://github.com/kkrypt0nn/gomanuf)**/ **[`pymanuf`](https://github.com/kkrypt0nn/pymanuf)** - A very simple Rust/Go/Python library to get the manufacturer of a specific MAC address
 
 ### Currently learning
 
