@@ -63,11 +63,11 @@ Hey there, I’m Krypton! (Coming from the [Krypton element](https://en.wikipedi
   <!--START_SECTION:waka-->
 
 ```txt
-CSS          17 mins         ██████████░░░░░░░░░░░░░░░   39.56 %
-Go           9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.60 %
-Astro        4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
-YAML         4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
-Markdown     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+Rust         1 hr 21 mins    ████████████████░░░░░░░░░   64.36 %
+CSS          17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
+Go           8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+Markdown     7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+Astro        4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
 ```
 
 <!--END_SECTION:waka-->
