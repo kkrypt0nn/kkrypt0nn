@@ -32,11 +32,10 @@ Hey there, I’m Krypton! (Coming from the [Krypton element](https://en.wikipedi
 
 ### 📩 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is ARP Spoofing?](https://krypton.ninja/blog/what-is-arp-spoofing)
 - [Bitwise flags are amazing, and you should use them](https://krypton.ninja/blog/bitwise-flags-are-amazing-and-you-should-use-them)
 - [Generating unique IDs with the Snowflake algorithm](https://krypton.ninja/blog/generating-unique-ids-with-the-snowflake-algorithm)
-- [How I protected my Minecraft cheating client](https://krypton.ninja/blog/how-i-protected-my-minecraft-cheating-client)
 - [What is Go?](https://krypton.ninja/blog/what-is-go)
+- [How cookies can manipulate new customers](https://krypton.ninja/blog/how-cookies-can-manipulate-new-customers)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
