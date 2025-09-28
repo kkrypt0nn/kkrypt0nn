@@ -32,6 +32,7 @@ Hey there, I’m Krypton! (Coming from the [Krypton element](https://en.wikipedi
 
 ### 📩 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bitwise flags are amazing, and you should use them](https://krypton.ninja/blog/bitwise-flags-are-amazing-and-you-should-use-them)
 - [Generating unique IDs with the Snowflake algorithm](https://krypton.ninja/blog/generating-unique-ids-with-the-snowflake-algorithm)
 - [What is Go?](https://krypton.ninja/blog/what-is-go)
 <!-- BLOG-POST-LIST:END -->
