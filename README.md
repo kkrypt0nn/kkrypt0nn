@@ -7,7 +7,7 @@ Hey there, I’m Krypton! (Coming from the [Krypton element](https://en.wikipedi
 ### Current projects I'm working on
 
 - **[`Project Absence`](https://github.com/kkrypt0nn/project-absence)** – A security tool for domain reconnaissance with an OSINT-only approach, written in Rust.
-- **crake** - A new project I won't unveil at the moment as I'm not sure how the development will be and how much time I can give to it because it's a side project I work on when I need to take my mind off other things.
+- **Infyra** - A new project I won't unveil at the moment as I'm not sure how the development will be and how much time I can give to it because it's a side project I work on when I need to take my mind off other things.
 - **[`Aegisbot`](https://github.com/kkrypt0nn/aegisbot)** - A Discord and Twitch bot with advanced pattern-matching auto-moderation, built on concepts inspired by [YARA](https://virustotal.github.io/yara/), written in Go.
 - **[`OverScry`](https://github.com/kkrypt0nn/OverScry)** - A tool designed to simplify the process of generating Overpass queries from a YML structure file, written in Go.
 
