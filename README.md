@@ -6,17 +6,16 @@ Hey there, I’m Krypton! (Coming from the [Krypton element](https://en.wikipedi
 
 ### Current projects I'm working on
 
-- **[`Project Absence`](https://github.com/kkrypt0nn/project-absence)** – A security tool for domain reconnaissance with an OSINT-only approach, written in Rust.
+- **[`Project Absence`](https://github.com/kkrypt0nn/project-absence)** - A security tool for domain reconnaissance with an OSINT-only approach, written in Rust.
 - **Iphyra** - A new project I won't unveil at the moment as I'm not sure how the development will be and how much time I can give to it because it's a side project I work on when I need to take my mind off other things.
-- **[`Argane`](https://github.com/kkrypt0nn/argane)** - A Kubernetes security validator for YAML manifests, Helm charts, and running pods, written in Go.
-- **[`Aegisbot`](https://github.com/kkrypt0nn/aegisbot)** - A Discord and Twitch bot with advanced pattern-matching auto-moderation, built on concepts inspired by [YARA](https://virustotal.github.io/yara/), written in Go.
+- **[`Aegisbot`](https://github.com/kkrypt0nn/aegisbot)** - A Discord and Twitch bot with advanced pattern-matching auto-moderation, written in Go.
 
 ### Notable other projects
 
-- **[`wordlists`](https://github.com/kkrypt0nn/wordlists)** - Yet another collection of wordlists
-- **[`Python-Discord-Bot-Template`](https://github.com/kkrypt0nn/Python-Discord-Bot-Template)** - A simple template to start to code your own and personalized Discord bot in Python
-- **[`spaceflake`](https://github.com/kkrypt0nn/spaceflake)** / **[`spaceflake.rs`](https://github.com/kkrypt0nn/spaceflake.rs)** - A distributed generator to create unique IDs with ease in Go/Rust; inspired by Twitter's Snowflake
-- **[`rsmanuf`](https://github.com/kkrypt0nn/rsmanuf)** / **[`gomanuf`](https://github.com/kkrypt0nn/gomanuf)**/ **[`pymanuf`](https://github.com/kkrypt0nn/pymanuf)** - A very simple Rust/Go/Python library to get the manufacturer of a specific MAC address
+- **[`wordlists`](https://github.com/kkrypt0nn/wordlists)** - Yet another collection of wordlists.
+- **[`manuf`](https://github.com/kkrypt0nn/manuf)** - Keeps an up to date list of MAC addresses prefixes and their manufacturer.
+- **[`Argane`](https://github.com/kkrypt0nn/argane)** - A Kubernetes security validator for YAML manifests, Helm charts, and running pods, written in Go.
+- **[`Python-Discord-Bot-Template`](https://github.com/kkrypt0nn/Python-Discord-Bot-Template)** - A simple template to start to code your own and personalized Discord bot in Python.
 
 ### Currently learning
 
@@ -26,6 +25,7 @@ Hey there, I’m Krypton! (Coming from the [Krypton element](https://en.wikipedi
 - **Forensics** - Forsencis.. but digital.
 
 ### Connect with me
+
 [Email](mailto:root@krypton.ninja) • [Discord](https://discord.gg/xj6y5ZaTMr) • [Keybase](https://keybase.io/kkrypt0nn) • [X (fka Twitter)](https://x.com/kkrypt0nn)
 
 <hr>
