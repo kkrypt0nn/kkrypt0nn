@@ -19,14 +19,14 @@ Hey there, I’m Krypton! (Coming from the [Krypton element](https://en.wikipedi
 
 ### Currently learning
 
-- **Hardening/Purple Teaming** - After learning a lot of red teaming, I want more to make things more resistant to damages and/or attacks.
+- **Security Engineering/Purple Teaming** - After learning a lot of red teaming, I want more to make things more resistant to damages and/or attacks.
 - **OSINT / Information Gathering** - Learning new techniques to gather information about specific things, I love data.
 - **Rust** – Security tooling and some other random TUIs.
-- **Forensics** - Forsencis.. but digital.
+- **Digital Forensics** - Forensics.. but digital.
 
 ### Connect with me
 
-[Email](mailto:root@krypton.ninja) • [Discord](https://discord.gg/xj6y5ZaTMr) • [Keybase](https://keybase.io/kkrypt0nn) • [X (fka Twitter)](https://x.com/kkrypt0nn)
+[Email](https://go.krypton.ninja/mail) • [Discord](https://go.krypton.ninja/discord) • [X (fka Twitter)](https://go.krypton.ninja/x)
 
 <hr>
 
