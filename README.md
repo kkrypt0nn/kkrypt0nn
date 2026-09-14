@@ -19,10 +19,10 @@ Hey there, I’m Krypton! (Coming from the [Krypton element](https://en.wikipedi
 
 ### Currently learning
 
+- **Digital Forensics** - Forensics.. but digital.
 - **Security Engineering/Purple Teaming** - After learning a lot of red teaming, I want more to make things more resistant to damages and/or attacks.
 - **OSINT / Information Gathering** - Learning new techniques to gather information about specific things, I love data.
-- **Rust** – Security tooling and some other random TUIs.
-- **Digital Forensics** - Forensics.. but digital.
+- **Rust** - Security tooling and some other random TUIs.
 
 ### Connect with me
 
